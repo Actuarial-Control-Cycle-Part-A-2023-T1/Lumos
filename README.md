@@ -3,8 +3,8 @@ group-github-pages-lumos created by GitHub Classroom
 
 UNSW
 
-Team:Lumos
+Team: Lumos
 
 Team members: Dongmei Jin, Hao Wang, Linyao Zhang, Mu Li 
 
-Faculty Advisor: Xiao Xu
+Faculty advisor: Xiao Xu
