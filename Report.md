@@ -67,18 +67,29 @@ The base cost contains four parts which are property damage 𝑃𝐷 (Appendix 2
 #### Short Term 
 The predicted short-term economic cost with and without the program is displayed in Figure 1. The economic costs without the program are higher than those with the program. In other words, there is a cost reduction due to the implementation of the program and the average cost reduction is around 8.3%. (Appendix 4: Detailed data of the economic costs in the short term) 
 
+![Figure 1](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%201.png)
+
 #### Long Term 
 Figure 2 depicts the estimated long-term economic cost with and without the program. The inclusion of the program reduces the potential economic costs. The average cost reduction is around 6.2%. Comparing to the short-term, the reduction percentage is smaller which can be explained by the different moving rates. Reduction in cost increases with the moving rates. In short term, there is no voluntary relocation without the program comparing to the large moving rate under program intervention. (Appendix 5: Detailed data of the economic costs in the long term) 
+
+![Figure 2](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%202.png)
 
 ### 4.3 Displacement and incentive with program 
 #### Short Term 
 In short term, the frequency of disasters follows a negative binomial distribution. According to Figure 3, the incentive payments are small than displacement costs in the next five years. The incentive cost is Ꝕ 7500 per person for the risk population, and the average displacement cost is about Ꝕ 81806 per person in short term. There is a significant reduction if citizens are willing to move out from high-risk regions voluntarily under the program (Appendix 6: Short term displacement and incentive cost).  
 
+![Figure 3](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%203.png)
+
 #### Long-term 
 In long term, the frequency of disasters is predicted based on the SSP model. Figure 4 depicts that the incentive costs are small than displacement costs in the next 120 years. The average displacement cost is about Ꝕ63530 per person in long term, which is smaller than it is in the short term since more citizens are voluntarily moving out from the high-risk region. The average displacement cost per person is still larger than the incentive cost indicating that there is a reduction in cost by implementing of the program (Appendix 7: Long term displacement and incentive cost). 
 
+![Figure 4](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%204.png)
+
 ### 4.4 10% of GDP Comparison 
 According to Figure 5, Storslysia’s GDP increases in the future. However, when comparing the economic costs from the above analysis to the 10% of the predicted average GDP, the cost never exceeds the GDP value which reinforces our objective of cost controlling under 10% projected GDP (Appendix 8: Projection of Storslysia GDP). 
+
+![Figure 5](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%205.png)
+
 
 ### 4.5 Economic Capital 
 Maximum economic costs can be obtained by considering the worst scenario: 
@@ -87,6 +98,9 @@ Maximum economic costs can be obtained by considering the worst scenario:
 - 50% increase in post hazard labor and material cost, cost of replacing household goods after a catastrophe is 75% of housing cost and 100% of the hazard victims require temporary relocation. 
 
 The economic capital is the difference between the maximum and the base economic costs. Figure 6 displays an increasing trend in the future comparing the capital with and without the program. In the long term, the economic capital with the program will be significantly lower than that without the program (Appendix 10: Projection of the program economic capital). 
+
+![Figure 6](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%206.png)
+
 
 ## 5. Risk Management 
 ### 5.1 Risk 
