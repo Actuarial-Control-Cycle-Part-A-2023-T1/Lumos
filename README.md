@@ -50,6 +50,7 @@ Based on historical data on different levels of disasters, a disaster index can 
 𝐷𝑖𝑠𝑎𝑠𝑡𝑒𝑟 𝐼𝑛𝑑𝑒𝑥= 1×𝑁𝑜. 𝑜𝑓 𝑙𝑜𝑤 𝑑𝑖𝑠𝑎𝑠𝑡𝑒𝑟𝑠 + 5×𝑁𝑜. 𝑜𝑓 𝑚𝑒𝑑𝑖𝑎𝑛 𝑑𝑖𝑠𝑎𝑠𝑡𝑒𝑟𝑠 + 10×𝑁𝑜. 𝑜𝑓 ℎ𝑖𝑔ℎ 𝑑𝑖𝑠𝑎𝑠𝑡𝑒𝑟𝑠
  
 Moving rate is defined as the percentage of population at risk for each region in each year. In general, the higher risk regions will have a higher moving rate. Based on the disaster index, different scenarios will have different moving rates according to Table 1. 
+
 <picture align = "center"> <img src= "https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/raw/fee55c472253431b09bd9919bde800bec87539c3/Table%201.png" width = "100%"></picture>
 
 ## 3. Assumptions 
@@ -69,12 +70,14 @@ Moving rate is defined as the percentage of population at risk for each region i
 ## 4. Economic Costs 
 ### 4.1 Projection Method 
 The base cost contains four parts which are property damage 𝑃𝐷 (Appendix 2: Projection of future property damage), material and labour cost 𝑀𝐿, replacing household goods cost 𝑅𝐻 and temporary housing cost 𝑇𝐻. When a resident moves out from a region, the potential hazard cost associated with the individual is reduced from the base cost. The reduction in percentage of population at risk is denoted as 𝑝. The program includes a deductible which is a percentage 𝑑 of the base costs. 𝐼𝐶  corresponds to the incentive benefit provided for potential victim willing to relocate voluntarily (Appendix 3: Detailed derivation of the formulas). In different situations, the economic cost has different components and the formulas for each situation are shown below: 
+
 <picture align = "center"> <img src= "https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/raw/fee55c472253431b09bd9919bde800bec87539c3/Table%202.png" width = "100%"></picture>
  
 
 ### 4.2 Economic cost without Program vs with Program 
 #### Short Term 
 The predicted short-term economic cost with and without the program is displayed in Figure 1. The economic costs without the program are higher than those with the program. In other words, there is a cost reduction due to the implementation of the program and the average cost reduction is around 8.3%. (Appendix 4: Detailed data of the economic costs in the short term) 
+
 <picture align = "center"> <img src= "https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%201.png" width = "100%"></picture>
 
 
