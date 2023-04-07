@@ -5,6 +5,6 @@ UNSW
 
 Team:Lumos
 
-Team members: Dongmei Jin; Hao Wang, Linyao Zhang; MU Li 
+Team members: Dongmei Jin, Hao Wang, Linyao Zhang, Mu Li 
 
 Faculty Advisor: Xiao Xu
