@@ -51,7 +51,7 @@ Based on historical data on different levels of disasters, a disaster index can 
  
 Moving rate is defined as the percentage of population at risk for each region in each year. In general, the higher risk regions will have a higher moving rate. Based on the disaster index, different scenarios will have different moving rates according to Table 1. 
 <picture align = "center"> <img src= "https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/raw/fee55c472253431b09bd9919bde800bec87539c3/Table%201.png" width = "100%"></picture>
-![Table 1](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/raw/fee55c472253431b09bd9919bde800bec87539c3/Table%201.png)
+
 ## 3. Assumptions 
 - Each household is assumed to have only one owner-occupied house/apartment. 
 - Short-term analysis includes yearly data from 2022 to 2026. Long-term analysis includes data from 2030 to 2150 on a 10-year basis. 
@@ -69,36 +69,35 @@ Moving rate is defined as the percentage of population at risk for each region i
 ## 4. Economic Costs 
 ### 4.1 Projection Method 
 The base cost contains four parts which are property damage 𝑃𝐷 (Appendix 2: Projection of future property damage), material and labour cost 𝑀𝐿, replacing household goods cost 𝑅𝐻 and temporary housing cost 𝑇𝐻. When a resident moves out from a region, the potential hazard cost associated with the individual is reduced from the base cost. The reduction in percentage of population at risk is denoted as 𝑝. The program includes a deductible which is a percentage 𝑑 of the base costs. 𝐼𝐶  corresponds to the incentive benefit provided for potential victim willing to relocate voluntarily (Appendix 3: Detailed derivation of the formulas). In different situations, the economic cost has different components and the formulas for each situation are shown below: 
-![Table 2](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/6870418db65cbee38a7af8c75d6e7281ad509ea4/Table%202.png)
+<picture align = "center"> <img src= "https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/raw/fee55c472253431b09bd9919bde800bec87539c3/Table%202.png" width = "100%"></picture>
  
 
 ### 4.2 Economic cost without Program vs with Program 
 #### Short Term 
 The predicted short-term economic cost with and without the program is displayed in Figure 1. The economic costs without the program are higher than those with the program. In other words, there is a cost reduction due to the implementation of the program and the average cost reduction is around 8.3%. (Appendix 4: Detailed data of the economic costs in the short term) 
+<picture align = "center"> <img src= "https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%201.png" width = "100%"></picture>
 
-![Figure 1](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%201.png)
 
 #### Long Term 
 Figure 2 depicts the estimated long-term economic cost with and without the program. The inclusion of the program reduces the potential economic costs. The average cost reduction is around 6.2%. Comparing to the short-term, the reduction percentage is smaller which can be explained by the different moving rates. Reduction in cost increases with the moving rates. In short term, there is no voluntary relocation without the program comparing to the large moving rate under program intervention. (Appendix 5: Detailed data of the economic costs in the long term) 
 
-![Figure 2](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%202.png)
+<picture align = "center"> <img src= "https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%202.png" width = "100%"></picture>
 
 ### 4.3 Displacement and incentive with program 
 #### Short Term 
 In short term, the frequency of disasters follows a negative binomial distribution. According to Figure 3, the incentive payments are small than displacement costs in the next five years. The incentive cost is Ꝕ 7500 per person for the risk population, and the average displacement cost is about Ꝕ 81806 per person in short term. There is a significant reduction if citizens are willing to move out from high-risk regions voluntarily under the program (Appendix 6: Short term displacement and incentive cost).  
 
-![Figure 3](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%203.png)
+<picture align = "center"> <img src= "https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%203.png" width = "100%"></picture>
 
 #### Long-term 
 In long term, the frequency of disasters is predicted based on the SSP model. Figure 4 depicts that the incentive costs are small than displacement costs in the next 120 years. The average displacement cost is about Ꝕ63530 per person in long term, which is smaller than it is in the short term since more citizens are voluntarily moving out from the high-risk region. The average displacement cost per person is still larger than the incentive cost indicating that there is a reduction in cost by implementing of the program (Appendix 7: Long term displacement and incentive cost). 
 
-![Figure 4](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%204.png)
+<picture align = "center"> <img src= "https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%204.png" width = "100%"></picture>
 
 ### 4.4 10% of GDP Comparison 
 According to Figure 5, Storslysia’s GDP increases in the future. However, when comparing the economic costs from the above analysis to the 10% of the predicted average GDP, the cost never exceeds the GDP value which reinforces our objective of cost controlling under 10% projected GDP (Appendix 8: Projection of Storslysia GDP). 
 
-![Figure 5](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%205.png)
-
+<picture align = "center"> <img src= "https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%205.png" width = "100%"></picture>
 
 ### 4.5 Economic Capital 
 Maximum economic costs can be obtained by considering the worst scenario: 
@@ -108,8 +107,7 @@ Maximum economic costs can be obtained by considering the worst scenario:
 
 The economic capital is the difference between the maximum and the base economic costs. Figure 6 displays an increasing trend in the future comparing the capital with and without the program. In the long term, the economic capital with the program will be significantly lower than that without the program (Appendix 10: Projection of the program economic capital). 
 
-![Figure 6](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%206.png)
-
+<picture align = "center"> <img src= "https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%206.png" width = "100%"></picture>
 
 ## 5. Risk Management 
 ### 5.1 Risk 
@@ -154,23 +152,24 @@ The sensitivity analysis is constructed to demonstrate the financial impact of k
 #### Short Term 
 In the short term, the program reduces all three types of cost according to Figure 7. The change in the growth rate of labor and material cost has the greatest impact on the short-term cost, while the temporary relocation expense exhibits the least impact. The presence of the program contributes to a 15% overall reduction in cost of material and labor where low indicates 0% increase and high indicates 50% increase. However, it exhibits minimal impact on changes in furniture acquisition and temporary relocation costs. 
 
-![Figure 7](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/a95d23af92c143fbe957bf69af3796211e4e9df2/Figure%207.png)
+<picture align = "center"> <img src= "https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%207.png" width = "100%"></picture>
 
 #### Long Term 
 Like the short-term scenario, the change in labor and materials costs have the highest impact on the long-term cost observed in Figure 8. Choice of SSP assumption also plays a crucial role in the long-term cost. The cost increases 7% moving from SSP1-2.6 to SSP5-Baseline. The government must consider thoroughly about the emission plan in the future. 
 
-![Figure 8](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/a95d23af92c143fbe957bf69af3796211e4e9df2/Figure%208.png)
+<picture align = "center"> <img src= "https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%208.png" width = "100%"></picture>
 
 #### Stress Test 
 Based on the sensitivity analysis above, the projected scenario exhibits to two extremes cases under the four sensitivity indexes, including SSP, temporary housing cost index (TH_i), Replacing Household goods Cost index (RH_i), and Labor & Material cost index (ML_i). 
-![Table 3](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/6870418db65cbee38a7af8c75d6e7281ad509ea4/Table%203.png)
+
+<picture align = "center"> <img src= "https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/raw/fee55c472253431b09bd9919bde800bec87539c3/Table%203.png" width = "100%"></picture>
 Comparing the two scenarios over time in Figure 8, the cost changes in the SSP1 scenario is significantly lower than that in the SSP5 case, which is approximately 5% of the cost changes in SSP5. Under SSP5 assumption, the program costs gradually increase. 
 
-![Figure 9](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/a95d23af92c143fbe957bf69af3796211e4e9df2/Figure%209.png)
+<picture align = "center"> <img src= "https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%209.png" width = "100%"></picture>
 
 It is obvious that the presence of the insurance program reduces the economic costs. A comparison is made between the cost under SSP5 and the 10% of minimum of the projected GDP. The highest program cost is about 7% of 10% of GDP (As shown in Figure 9 for year 2150). It indicates that the cost is still under 10% of GDP in the most extreme case. 
 
-![Figure 10](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/a95d23af92c143fbe957bf69af3796211e4e9df2/Figure%2010.png)
+<picture align = "center"> <img src= "https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/cda6796b7a836a23263b6da5ef030411e15f623b/Figure%2010.png" width = "100%"></picture>
 
 Based on selected long-term and short-term economic growth, the frequency and severity of climate catastrophes, there is approximately 99% confidence that the cost with the policy will be lower than that without the policy under the baseline scenario. As the incentive increases, the number of people willing to move voluntarily will increase. The incentive benefit can be raised to Ꝕ9185 before the cost without the program will be lower under the SSP1-2.6 assumption. When incentive payment is greater than Ꝕ14450, the program is ineffective in all SSP scenarios, i.e., the confidence level is at 0% as the cost without the program will be lower in every scenario (Appendix 11: Detailed analysis of the critical value). 
 
