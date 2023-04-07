@@ -38,11 +38,11 @@ Overall, the program achieves the objectives of reducing the overall post-hazard
 ### 2.2 Features 
 Disaster Index and moving rate 
 Based on historical data on different levels of disasters, a disaster index can be defined as the degree of severity for a whole region. Different grades are assigned for different levels of disasters. I.e., 1 for low damage disasters, 5 for median disasters, and 10 for high severity disasters: 
+
 𝐷𝑖𝑠𝑎𝑠𝑡𝑒𝑟 𝐼𝑛𝑑𝑒𝑥= 1×𝑁𝑜. 𝑜𝑓 𝑙𝑜𝑤 𝑑𝑖𝑠𝑎𝑠𝑡𝑒𝑟𝑠 + 5×𝑁𝑜. 𝑜𝑓 𝑚𝑒𝑑𝑖𝑎𝑛 𝑑𝑖𝑠𝑎𝑠𝑡𝑒𝑟𝑠 + 10×𝑁𝑜. 𝑜𝑓 ℎ𝑖𝑔ℎ 𝑑𝑖𝑠𝑎𝑠𝑡𝑒𝑟𝑠
-Disaster Index= 1×No. of low disasters + 5×No. of median disasters + 10×No. of high disasters
  
 Moving rate is defined as the percentage of population at risk for each region in each year. In general, the higher risk regions will have a higher moving rate. Based on the disaster index, different scenarios will have different moving rates according to Table 1. 
-![Figure 1](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/e9e1a110d2831539a89dc639c1617976524e39f6/Figure%201.jpg#pic_center)
+![Table 1](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/fee55c472253431b09bd9919bde800bec87539c3/Table%201.png)
 ## 3. Assumptions 
 - Each household is assumed to have only one owner-occupied house/apartment. 
 - Short-term analysis includes yearly data from 2022 to 2026. Long-term analysis includes data from 2030 to 2150 on a 10-year basis. 
