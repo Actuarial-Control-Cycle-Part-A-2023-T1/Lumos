@@ -6,6 +6,7 @@ Team: Lumos
 Team members: Dongmei Jin, Hao Wang, Linyao Zhang, Mu Li 
 
 Faculty advisor: Xiao Xu
+
 --- 
 ## 1. Executive Summary
 Storslysia is threatened by the increasing catastrophes caused by the escalating impact of climate change. The actuary team at Lumos consulting are working closely with the government to design a multi-peril social insurance program that covers all Storslysia population. The proposed objectives of the social insurance program include:
