@@ -145,22 +145,29 @@ The sensitivity analysis is constructed to demonstrate the financial impact of k
 #### Short Term 
 In the short term, the program reduces all three types of cost according to Figure 7. The change in the growth rate of labor and material cost has the greatest impact on the short-term cost, while the temporary relocation expense exhibits the least impact. The presence of the program contributes to a 15% overall reduction in cost of material and labor where low indicates 0% increase and high indicates 50% increase. However, it exhibits minimal impact on changes in furniture acquisition and temporary relocation costs. 
 
+![Figure 7](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/a95d23af92c143fbe957bf69af3796211e4e9df2/Figure%207.png)
+
 #### Long Term 
 Like the short-term scenario, the change in labor and materials costs have the highest impact on the long-term cost observed in Figure 8. Choice of SSP assumption also plays a crucial role in the long-term cost. The cost increases 7% moving from SSP1-2.6 to SSP5-Baseline. The government must consider thoroughly about the emission plan in the future. 
+
+![Figure 8](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/a95d23af92c143fbe957bf69af3796211e4e9df2/Figure%208.png)
 
 #### Stress Test 
 Based on the sensitivity analysis above, the projected scenario exhibits to two extremes cases under the four sensitivity indexes, including SSP, temporary housing cost index (TH_i), Replacing Household goods Cost index (RH_i), and Labor & Material cost index (ML_i). 
 ![Table 3](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/6870418db65cbee38a7af8c75d6e7281ad509ea4/Table%203.png)
 Comparing the two scenarios over time in Figure 8, the cost changes in the SSP1 scenario is significantly lower than that in the SSP5 case, which is approximately 5% of the cost changes in SSP5. Under SSP5 assumption, the program costs gradually increase. 
 
+![Figure 9](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/a95d23af92c143fbe957bf69af3796211e4e9df2/Figure%209.png)
+
 It is obvious that the presence of the insurance program reduces the economic costs. A comparison is made between the cost under SSP5 and the 10% of minimum of the projected GDP. The highest program cost is about 7% of 10% of GDP (As shown in Figure 9 for year 2150). It indicates that the cost is still under 10% of GDP in the most extreme case. 
+
+![Figure 10](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/a95d23af92c143fbe957bf69af3796211e4e9df2/Figure%2010.png)
 
 Based on selected long-term and short-term economic growth, the frequency and severity of climate catastrophes, there is approximately 99% confidence that the cost with the policy will be lower than that without the policy under the baseline scenario. As the incentive increases, the number of people willing to move voluntarily will increase. The incentive benefit can be raised to Ꝕ9185 before the cost without the program will be lower under the SSP1-2.6 assumption. When incentive payment is greater than Ꝕ14450, the program is ineffective in all SSP scenarios, i.e., the confidence level is at 0% as the cost without the program will be lower in every scenario (Appendix 11: Detailed analysis of the critical value). 
 
 ## 6. Data and Limitations  
 ### 6.1 Data Selection 
 In this proposal, no external datasets are used to construct the analysis. 
-
 
 ### 6.2 Data Limitations 
 Insufficient historical data 
