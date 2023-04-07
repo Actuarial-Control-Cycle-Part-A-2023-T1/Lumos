@@ -60,7 +60,7 @@ Moving rate is defined as the percentage of population at risk for each region i
 ## 4. Economic Costs 
 ### 4.1 Projection Method 
 The base cost contains four parts which are property damage 𝑃𝐷 (Appendix 2: Projection of future property damage), material and labour cost 𝑀𝐿, replacing household goods cost 𝑅𝐻 and temporary housing cost 𝑇𝐻. When a resident moves out from a region, the potential hazard cost associated with the individual is reduced from the base cost. The reduction in percentage of population at risk is denoted as 𝑝. The program includes a deductible which is a percentage 𝑑 of the base costs. 𝐼𝐶  corresponds to the incentive benefit provided for potential victim willing to relocate voluntarily (Appendix 3: Detailed derivation of the formulas). In different situations, the economic cost has different components and the formulas for each situation are shown below: 
-
+![Table 2](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/6870418db65cbee38a7af8c75d6e7281ad509ea4/Table%202.png)
  
 
 ### 4.2 Economic cost without Program vs with Program 
@@ -121,7 +121,7 @@ Like the short-term scenario, the change in labor and materials costs have the h
 
 #### Stress Test 
 Based on the sensitivity analysis above, the projected scenario exhibits to two extremes cases under the four sensitivity indexes, including SSP, temporary housing cost index (TH_i), Replacing Household goods Cost index (RH_i), and Labor & Material cost index (ML_i). 
-
+![Table 3](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/6870418db65cbee38a7af8c75d6e7281ad509ea4/Table%203.png)
 Comparing the two scenarios over time in Figure 8, the cost changes in the SSP1 scenario is significantly lower than that in the SSP5 case, which is approximately 5% of the cost changes in SSP5. Under SSP5 assumption, the program costs gradually increase. 
 
 It is obvious that the presence of the insurance program reduces the economic costs. A comparison is made between the cost under SSP5 and the 10% of minimum of the projected GDP. The highest program cost is about 7% of 10% of GDP (As shown in Figure 9 for year 2150). It indicates that the cost is still under 10% of GDP in the most extreme case. 
