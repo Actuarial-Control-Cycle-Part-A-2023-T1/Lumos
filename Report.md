@@ -105,6 +105,21 @@ The economic capital is the difference between the maximum and the base economic
 ## 5. Risk Management 
 ### 5.1 Risk 
 Below is a Risk Categorization and Definition (RCD) analysis of the potential risks, the numbers range from 1 to 5 where 1 is the lowest severity and likelihood, vice versa. 
+
+|Risk Category |Risk |Risk Division |Severity, likelihood |Explanation |
+|:----|:----|:----|:----|:----|
+| | | | | |
+|Financial Risk |Unexpected economic downturn |GDP |(4, 2) |Low inflation and interest rate results in low GDP growth which impacts the budget of the program. |
+|Financial Risk |Black swan event |Economy |(5, 1) |Unexpected large-scale events such as pandemic leading to massive shocks to the economy, causing problems such as unemployment, economic downturn. |
+|Financial Risk |Change in currency value |Currency |(3, 2) |Change in Storslysia dollar against foreign currency influences the amount of foreign investment, leading to changes in output. |
+|Ethical Risk |Equity risk |Ethic |(1, 4) |Different regions occupy different severity levels, but risk is shared evenly to all population under the program. |
+|Ethical Risk |Discrimination risk |Incentives |(2, 4) |Same incentives across all disaster levels, discourage high risky population to move voluntarily |
+|Environment Risk |Underestimate the hazard severity |Liquidity |(5, 1) |More frequent large-scale catastrophes bring more property damage than projected. |
+|Environment Risk |Unexpected environment deterioration |Disaster |(3, 2) |The environment deteriorates more quickly than expected, making Storslysia more hazard prone. |
+|Operational Risk |Administrative failures |Reserve |(4, 2) |Corruption in executive level which significantly reduces the catastrophe reserves. |
+|Operational Risk |Underwriting risk |Reserve |(3, 2) |Incorrect identification of the potential residents at risk, causing increasing benefit payments. |
+|Operational Risk |Human error |Reserve |(2, 2) |Error when building the model, causing miscalculation of the property damage and reserve requirements. |
+
 ### 5.2 Mitigation 
 #### Financial risk  
 - Collect historical data for large scale economic events, create a new variable in the model to account for the abnormal downturn caused by such events. Thus, the impact the impact of these unusual downturns and regular economic shocks can be studied separately, allowing the policy makers to react to such situations readily. 
@@ -146,19 +161,6 @@ Based on selected long-term and short-term economic growth, the frequency and se
 ### 6.1 Data Selection 
 In this proposal, no external datasets are used to construct the analysis. 
 
-|Risk Category |Risk |Risk Division |Severity, likelihood |Explanation |
-|:----|:----|:----|:----|:----|
-| | | | | |
-|Financial Risk |Unexpected economic downturn |GDP |(4, 2) |Low inflation and interest rate results in low GDP growth which impacts the budget of the program. |
-|Financial Risk |Black swan event |Economy |(5, 1) |Unexpected large-scale events such as pandemic leading to massive shocks to the economy, causing problems such as unemployment, economic downturn. |
-|Financial Risk |Change in currency value |Currency |(3, 2) |Change in Storslysia dollar against foreign currency influences the amount of foreign investment, leading to changes in output. |
-|Ethical Risk |Equity risk |Ethic |(1, 4) |Different regions occupy different severity levels, but risk is shared evenly to all population under the program. |
-|Ethical Risk |Discrimination risk |Incentives |(2, 4) |Same incentives across all disaster levels, discourage high risky population to move voluntarily |
-|Environment Risk |Underestimate the hazard severity |Liquidity |(5, 1) |More frequent large-scale catastrophes bring more property damage than projected. |
-|Environment Risk |Unexpected environment deterioration |Disaster |(3, 2) |The environment deteriorates more quickly than expected, making Storslysia more hazard prone. |
-|Operational Risk |Administrative failures |Reserve |(4, 2) |Corruption in executive level which significantly reduces the catastrophe reserves. |
-|Operational Risk |Underwriting risk |Reserve |(3, 2) |Incorrect identification of the potential residents at risk, causing increasing benefit payments. |
-|Operational Risk |Human error |Reserve |(2, 2) |Error when building the model, causing miscalculation of the property damage and reserve requirements. |
 
 ### 6.2 Data Limitations 
 Insufficient historical data 
