@@ -51,7 +51,7 @@ Based on historical data on different levels of disasters, a disaster index can 
  
 Moving rate is defined as the percentage of population at risk for each region in each year. In general, the higher risk regions will have a higher moving rate. Based on the disaster index, different scenarios will have different moving rates according to Table 1. 
 <picture align = "center"> <img src= "https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/raw/fee55c472253431b09bd9919bde800bec87539c3/Table%201.png" width = "100%"></picture>
-![Table 1](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/fee55c472253431b09bd9919bde800bec87539c3/Table%201.png)
+![Table 1](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/raw/fee55c472253431b09bd9919bde800bec87539c3/Table%201.png)
 ## 3. Assumptions 
 - Each household is assumed to have only one owner-occupied house/apartment. 
 - Short-term analysis includes yearly data from 2022 to 2026. Long-term analysis includes data from 2030 to 2150 on a 10-year basis. 
