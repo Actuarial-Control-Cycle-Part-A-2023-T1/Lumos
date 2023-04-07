@@ -7,4 +7,4 @@ Team:Lumos
 
 Team members: Dongmei Jin; Hao Wang, Linyao Zhang; MU Li 
 
-Faculty Advisor:Xiao Xu
+Faculty Advisor: Xiao Xu
