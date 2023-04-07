@@ -214,4 +214,4 @@ In conclusion, the proposed policy design achieves the required objectives. In t
 
 • Tornado Alley (2023). Available at: https://en.wikipedia.org/wiki/Tornado_Alley (Accessed: 15 March 2023). 
 
- ## 9. Appendices
+ ## 9. Appendices [Appendix](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/033691ec6d750b04ed18cd88af5897b21aa908ae/Lumos%20Social%20Insurance%20Report%20Appendix.pdf)
