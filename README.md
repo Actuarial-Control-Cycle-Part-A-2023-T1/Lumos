@@ -195,9 +195,11 @@ Lack of historical post-hazard relocation rates
 For involuntarily movers, it is reasonable that some of them would become voluntarily movers after a hazard. Thus, the number of voluntary movers in the future can be projected with less error. 
 
 ## 7. Conclusion 
+
 In conclusion, the proposed policy design achieves the required objectives. In the short term, the baseline program reduces 8.3% of economic costs on average. In the long term, the cost reduction is 6.2%. The projected economic costs associated with the program is always under 10% of Storslysia’s GDP. The program also survives the stress test and sensitivity analysis with high degree of certainty. In the long term, the proportion of voluntary movers increase under the incentive scheme. 
 
 ## 8. Reference
+
 • Adapting to Rising Flood Risk: An Analysis of Insurance Solutions for Canada (2023). Available at: https://www.publicsafety.gc.ca/cnt/rsrcs/pblctns/dptng-rsng-fld-rsk-2022/index-en.aspx (Accessed: 4 March 2023). 
 
 • Economic Capital and the Assessment of Capital Adequacy (2004), Available at: https://www.fdic.gov/regulations/examinations/supervisory/insights/siwin04/siwinter04-article1.pdf (Accessed:  4 March 2023). 
@@ -214,4 +216,4 @@ In conclusion, the proposed policy design achieves the required objectives. In t
 
 • Tornado Alley (2023). Available at: https://en.wikipedia.org/wiki/Tornado_Alley (Accessed: 15 March 2023). 
 
- ## 9. [Appendices](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/033691ec6d750b04ed18cd88af5897b21aa908ae/Lumos%20Social%20Insurance%20Report%20Appendix.pdf)
+## 9. [Appendices](https://github.com/Actuarial-Control-Cycle-Part-A-2023-T1/Lumos/blob/033691ec6d750b04ed18cd88af5897b21aa908ae/Lumos%20Social%20Insurance%20Report%20Appendix.pdf)
